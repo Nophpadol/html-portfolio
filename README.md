@@ -1,2 +1,2 @@
 # html-portfolio
-test portfolio from learning Udemy
+test portfolio from learning udemy's course
